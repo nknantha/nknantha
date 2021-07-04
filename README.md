@@ -49,6 +49,7 @@
     <a href="https://www.hackerrank.com/nknantha" title="HackerRank Profile">
         <img src="https://img.shields.io/static/v1?label=&message=hackerrank&color=21914a&style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
     </a>
+    <br>
     <a href="https://twitter.com/nknantha13" title="Twitter Profile">
         <img src="https://img.shields.io/static/v1?label=&message=twitter&color=0d8bd9&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
