@@ -1,8 +1,9 @@
+Hi There
+<!--
+
 <h2 align="center">Hey there! 👋<br>It's Me, <strong>NanthaKumar ⚡️</strong></h2>  
 
 <br>
-
-<!--
 
 <p align="center">
 
