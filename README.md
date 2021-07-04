@@ -2,6 +2,8 @@
 
 <br>
 
+<!--
+
 <p align="center">
 
 💎 Doing B.E(CSE) on SCADCET.  
@@ -26,7 +28,7 @@
 <br>
 
 ## Tools
-<!--
+
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=&message=pycharm&color=black&style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
     <img src="https://img.shields.io/static/v1?label=&message=vscode&color=006bb3&style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
