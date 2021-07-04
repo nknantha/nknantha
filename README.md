@@ -1,15 +1,20 @@
-<h2 align="center">Hey there! 👋<br>It's Me, <strong>NanthaKumar ⚡️</strong></h2>
+<h2 align="center">Hey there! 👋<br>It's Me, <strong>NanthaKumar ⚡️</strong></h2>  
 
----
-## Gist
-- 💎 Doing B.E(CSE) on SCADCET.
-- ⚡️ Having energy of Python, Little Java and C.
-- 🌱 Currently surfing on DSA, DB, AI/ML.
-- 🤩 Interested in Golang, CyberSecurity, BlockChain.
-- 🧐 Looking for help on development.
-- 💬 Feel free to ask doubts. I try my best.
+<br>
 
----
+<div align="center">
+
+💎 Doing B.E(CSE) on SCADCET.  
+⚡️ Having energy of Python, Little Java and C.  
+🌱 Currently surfing on DSA, DB, AI/ML.  
+🤩 Interested in Golang, CyberSecurity, BlockChain.  
+🧐 Looking for help on development.  
+💬 Feel free to ask doubts. I try my best.  
+
+</div>
+
+<br>
+
 ## Languages
 
 <div align="center">
@@ -18,7 +23,8 @@
     <img src="https://img.shields.io/static/v1?label=&message=Language&color=283593&style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </div>
 
----
+<br>
+
 ## Tools
 
 <div align="center">
@@ -32,7 +38,8 @@
     <img src="https://img.shields.io/static/v1?label=&message=linux&color=66a329&style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>    
 </div>
 
----
+<br>
+
 ## Find Me On
 
 <div align="center">
@@ -54,12 +61,15 @@
     </a>
 </div>
 
----
+<br>
+
 ## Github Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknantha&layout=compact&bg_color=262626&text_color=8c8c8c&border_color=33cc33" alt="There is a problem while loading stats ☹️">
 </div>
+
+<br>
 
 ## Repo's
 
