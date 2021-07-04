@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center">
+<div align="center">
 
 💎 Doing B.E(CSE) on SCADCET.  
 ⚡️ Having energy of Python, Little Java and C.  
@@ -11,23 +11,23 @@
 🧐 Looking for help on development.  
 💬 Feel free to ask doubts. I try my best.  
 
-</p>
+</div>
 
 <br>
 
 ## Languages
 
-<p align="center">
+<div align="center">
     <img src="https://img.shields.io/static/v1?label=&message=python&color=ffd343&style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
     <img src="https://img.shields.io/static/v1?label=&message=java&color=ed8b00&style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/static/v1?label=&message=Language&color=283593&style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-</p>
+</div>
 
 <br>
 
 ## Tools
 
-<p align="center">
+<div align="center">
     <img src="https://img.shields.io/static/v1?label=&message=pycharm&color=black&style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
     <img src="https://img.shields.io/static/v1?label=&message=vscode&color=006bb3&style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
     <img src="https://img.shields.io/static/v1?label=&message=jupyterlab&color=f37626&style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab"/>
@@ -36,13 +36,13 @@
     <br>
     <img src="https://img.shields.io/static/v1?label=&message=windows&color=0078d6&style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
     <img src="https://img.shields.io/static/v1?label=&message=linux&color=66a329&style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>    
-</p>
+</div>
 
 <br>
 
 ## Find Me On
 
-<p align="center">
+<div align="center">
     <a href="https://www.linkedin.com/in/nanthakumar13/" title="LinkedIn Profile">
         <img src="https://img.shields.io/static/v1?label=&message=linkedin&color=0a66c2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -59,24 +59,24 @@
     <a href="mailto:nknanthakumar13@gmail.com" title="Mail">
         <img src="https://img.shields.io/static/v1?label=&message=mail&color=ea4335&style=for-the-badge&logo=gmail&logoColor=white" alt="nknanthakumar13@gmail.com"/>
     </a>
-</p>
+</div>
 
 <br>
 
 ## Github Stats
 
-<p align="center">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknantha&layout=compact&bg_color=262626&text_color=8c8c8c&border_color=33cc33" alt="There is a problem while loading stats ☹️">
-</p>
+</div>
 
 <br>
 
 ## Repo's
 
-<p align="center">
+<div align="center">
     <a href="https://github.com/nknantha/BlackJack" title="nknantha/BlackJack">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nknantha&repo=BlackJack&show_owner=true&bg_color=262626&text_color=8c8c8c&border_color=33cc33&show_icons=true" alt="nknantha/BlackJack">
     </a>
-</p>
+</div>
 
 ---
