@@ -57,7 +57,7 @@
     </a>
     <br>
     <a href="mailto:nknanthakumar13@gmail.com" title="Mail">
-        <img src="https://img.shields.io/static/v1?label=&message=mail&color=ea4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
+        <img src="https://img.shields.io/static/v1?label=&message=mail&color=ea4335&style=for-the-badge&logo=gmail&logoColor=white" alt="nknanthakumar13@gmail.com"/>
     </a>
 </div>
 
