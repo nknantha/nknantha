@@ -30,6 +30,7 @@
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=&message=pycharm&color=black&style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
     <img src="https://img.shields.io/static/v1?label=&message=vscode&color=006bb3&style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
+    <br>
     <img src="https://img.shields.io/static/v1?label=&message=canva&color=00adb3&style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
     <img src="https://img.shields.io/static/v1?label=&message=git&color=f05032&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/static/v1?label=&message=jupyterlab&color=f37626&style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab"/>
@@ -41,7 +42,7 @@
 <br>
 
 ## Find Me On
-
+<!--
 <p align="center">
     <a href="https://www.linkedin.com/in/nanthakumar13/" title="LinkedIn Profile">
         <img src="https://img.shields.io/static/v1?label=&message=linkedin&color=0a66c2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -49,7 +50,6 @@
     <a href="https://www.hackerrank.com/nknantha" title="HackerRank Profile">
         <img src="https://img.shields.io/static/v1?label=&message=hackerrank&color=21914a&style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
     </a>
-    <br>
     <a href="https://twitter.com/nknantha13" title="Twitter Profile">
         <img src="https://img.shields.io/static/v1?label=&message=twitter&color=0d8bd9&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
