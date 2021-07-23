@@ -66,7 +66,10 @@
 ## Github Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknantha&layout=compact&bg_color=262626&text_color=8c8c8c&border_color=33cc33" alt="There is a problem while loading stats ☹️">
+    <img src="https://github-readme-stats.vercel.app/api?username=nknantha&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&border_color=33cc33" alt="There is a problem while loading stats ☹️">
+    <br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknantha&layout=compact&bg_color=262626&text_color=8c8c8c&border_color=33cc33" alt="There is a problem while loading stats ☹️">
 </div>
 
 <br>
