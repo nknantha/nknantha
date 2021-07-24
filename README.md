@@ -31,9 +31,9 @@
     <img src="https://img.shields.io/static/v1?label=&message=pycharm&color=black&style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
     <img src="https://img.shields.io/static/v1?label=&message=vscode&color=006bb3&style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
     <img src="https://img.shields.io/static/v1?label=&message=jupyterlab&color=f37626&style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab"/>
+    <img src="https://img.shields.io/static/v1?label=&message=intellij%20idea&color=black&style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
     <img src="https://img.shields.io/static/v1?label=&message=git&color=f05032&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/static/v1?label=&message=canva&color=00adb3&style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-    <br>
     <img src="https://img.shields.io/static/v1?label=&message=windows&color=0078d6&style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
     <img src="https://img.shields.io/static/v1?label=&message=linux&color=66a329&style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>    
 </div>
@@ -66,12 +66,12 @@
 ## Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nknantha&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="There is a problem while loading stats ☹️">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=nknantha&theme=tokyonight">
+    <img width="92%" src="https://github-readme-stats.vercel.app/api?username=nknantha&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
+    <img width="92%" src="https://github-readme-streak-stats.herokuapp.com?user=nknantha&theme=tokyonight"/>
     <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=nknantha&theme=react-dark">
+    <img src="https://activity-graph.herokuapp.com/graph?username=nknantha&theme=react-dark"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknantha&layout=compact&theme=tokyonight" alt="There is a problem while loading stats ☹️">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknantha&layout=compact&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
 </div>
 
 <br>
