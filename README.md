@@ -66,10 +66,12 @@
 ## Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nknantha&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&border_color=33cc33" alt="There is a problem while loading stats ☹️">
+    <img src="https://github-readme-stats.vercel.app/api?username=nknantha&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="There is a problem while loading stats ☹️">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nknantha&theme=tokyonight">
     <br>
+    <img src="https://activity-graph.herokuapp.com/graph?username=nknantha&theme=react-dark">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknantha&layout=compact&bg_color=262626&text_color=8c8c8c&border_color=33cc33" alt="There is a problem while loading stats ☹️">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknantha&layout=compact&theme=tokyonight" alt="There is a problem while loading stats ☹️">
 </div>
 
 <br>
@@ -78,7 +80,7 @@
 
 <div align="center">
     <a href="https://github.com/nknantha/BlackJack" title="nknantha/BlackJack">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nknantha&repo=BlackJack&show_owner=true&bg_color=262626&text_color=8c8c8c&border_color=33cc33&show_icons=true" alt="nknantha/BlackJack">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nknantha&repo=BlackJack&show_owner=true&show_icons=true&theme=tokyonight" alt="nknantha/BlackJack">
     </a>
 </div>
 
