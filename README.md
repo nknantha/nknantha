@@ -66,8 +66,8 @@
 ## Github Stats
 
 <div align="center">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=nknantha&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=nknantha&theme=tokyonight"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=nknantha&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=nknantha&theme=tokyonight"/>
     <br>
     <img src="https://activity-graph.herokuapp.com/graph?username=nknantha&theme=react-dark"/>
     <br>
