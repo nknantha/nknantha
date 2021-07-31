@@ -63,10 +63,10 @@
 
 <br>
 
-## Github Stats
+## GitHub Stats
 
 <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nknantha&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nknantha&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=nknantha&theme=tokyonight"/>
     <br>
     <img src="https://activity-graph.herokuapp.com/graph?username=nknantha&theme=react-dark"/>
