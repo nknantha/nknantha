@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=jupyterlab&color=f37626&style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab"/>
     <img src="https://img.shields.io/static/v1?label=&message=intellij%20idea&color=black&style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
     <img src="https://img.shields.io/static/v1?label=&message=git&color=f05032&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/static/v1?label=&message=github&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/static/v1?label=&message=canva&color=00adb3&style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
     <img src="https://img.shields.io/static/v1?label=&message=windows&color=0078d6&style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
     <img src="https://img.shields.io/static/v1?label=&message=linux&color=66a329&style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>    
@@ -66,10 +67,10 @@
 ## GitHub Stats
 
 <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nknantha&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=nknantha&theme=tokyonight"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=nknantha&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
+    <img width="44%" src="https://github-readme-streak-stats.herokuapp.com?user=nknantha&theme=tokyonight"/>
     <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=nknantha&theme=react-dark"/>
+    <img width="95%" src="https://activity-graph.herokuapp.com/graph?username=nknantha&theme=react-dark"/>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknantha&layout=compact&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
 </div>
