@@ -75,12 +75,12 @@
 
 <br>
 
-## Repo's
+<!-- ## Repo's
 
 <div align="center">
     <a href="https://github.com/nknantha/BlackJack" title="nknantha/BlackJack">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nknantha&repo=BlackJack&show_owner=true&show_icons=true&theme=tokyonight" alt="nknantha/BlackJack">
     </a>
-</div>
+</div> -->
 
 ---
