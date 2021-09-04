@@ -70,8 +70,6 @@
     <img width="53%" src="https://github-readme-stats.vercel.app/api?username=nknantha&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
     <img width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=nknantha&theme=tokyonight"/>
     <br>
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=nknantha&theme=react-dark"/>
-    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknantha&layout=compact&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
 </div>
 
