@@ -9,7 +9,7 @@
 🌱 Currently surfing on DSA, DB, AI/ML.  
 🤩 Interested in Golang, CyberSecurity, BlockChain.  
 🧐 Looking for help on development.  
-💬 Feel free to ask doubts. I try my best.  
+💬 Feel free to ask doubts. I try My Best.  
 
 </div>
 
