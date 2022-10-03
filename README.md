@@ -88,10 +88,10 @@
 ## GitHub Stats
 
 <div align="center">
-    <img width="450" src="https://github-readme-stats.vercel.app/api?username=nknantha&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=nknantha&theme=tokyonight"/>
+    <img width="470" src="https://github-readme-stats.vercel.app/api?username=nknantha&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
+    <img width="410" src="https://github-readme-streak-stats.herokuapp.com?user=nknantha&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknantha&layout=compact&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
+    <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknantha&layout=compact&theme=tokyonight" alt="There is a problem while loading stats ☹️"/>
 </div>
 
 <br>
