@@ -43,12 +43,12 @@
 ## Tools/Platforms
 
 <div align="center">
-    <img src="https://img.shields.io/static/v1?label=&message=jupyterlab&color=242424&style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab"/>
-    <img src="https://img.shields.io/static/v1?label=&message=github&color=242424&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/static/v1?label=&message=git&color=242424&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/static/v1?label=&message=canva&color=242424&style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+    <img src="https://img.shields.io/static/v1?label=&message=jupyterlab&color=242424&style=for-the-badge&logo=jupyter" alt="JupyterLab"/>
+    <img src="https://img.shields.io/static/v1?label=&message=github&color=242424&style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/static/v1?label=&message=git&color=242424&style=for-the-badge&logo=git" alt="Git"/>
+    <img src="https://img.shields.io/static/v1?label=&message=canva&color=242424&style=for-the-badge&logo=canva" alt="Canva"/>
     <img src="https://img.shields.io/static/v1?label=&message=Heroku&color=242424&style=for-the-badge&logo=Heroku" alt="Heroku"/>
-    <img src="https://img.shields.io/static/v1?label=&message=linux&color=242424&style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>    
+    <img src="https://img.shields.io/static/v1?label=&message=linux&color=242424&style=for-the-badge&logo=linux" alt="Linux"/>    
 </div>
 
 <br>
@@ -66,20 +66,20 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/nanthakumar13/" title="LinkedIn Profile">
-        <img src="https://img.shields.io/static/v1?label=&message=linkedin&color=242424&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/static/v1?label=&message=linkedin&color=242424&style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
     </a>
     <a href="https://www.hackerrank.com/nknantha" title="HackerRank Profile">
-        <img src="https://img.shields.io/static/v1?label=&message=hackerrank&color=242424&style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+        <img src="https://img.shields.io/static/v1?label=&message=hackerrank&color=242424&style=for-the-badge&logo=hackerrank" alt="HackerRank"/>
     </a>
     <a href="https://twitter.com/nknantha13" title="Twitter Profile">
-        <img src="https://img.shields.io/static/v1?label=&message=twitter&color=242424&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+        <img src="https://img.shields.io/static/v1?label=&message=twitter&color=242424&style=for-the-badge&logo=twitter" alt="Twitter"/>
     </a>
     <a href="https://replit.com/@nknantha/" title="Replit Profile">
-        <img src="https://img.shields.io/static/v1?label=&message=Replit&color=242424&style=for-the-badge&logo=Replit&logoColor=white" alt="Replit"/>
+        <img src="https://img.shields.io/static/v1?label=&message=Replit&color=242424&style=for-the-badge&logo=Replit" alt="Replit"/>
     </a>
     <br>
     <a href="mailto:nknanthakumar13@gmail.com" title="Mail">
-        <img src="https://img.shields.io/static/v1?label=&message=mail&color=242424&style=for-the-badge&logo=gmail&logoColor=white" alt="nknanthakumar13@gmail.com"/>
+        <img src="https://img.shields.io/static/v1?label=&message=mail&color=242424&style=for-the-badge&logo=gmail" alt="nknanthakumar13@gmail.com"/>
     </a>
 </div>
 
